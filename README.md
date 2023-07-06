@@ -23,8 +23,8 @@
 
 ### Links
 
-- Solution URL: [Solution URL](https://github.com/RenzoAlessandro/profile-card-component)
-- Live Site URL: [Live site URL](https://renzoalessandro.github.io/profile-card-component/)
+- Solution URL: [Solution URL]()
+- Live Site URL: [Live site URL]()
 
 ## My process
 
