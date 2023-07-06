@@ -17,10 +17,10 @@ html {
 
 body {
   font-family: "Kumbh Sans", sans-serif;
-  background-color: var(--dark-cyan);
-  background-image: url("../images/bg-pattern-top.svg"), url("../images/bg-pattern-bottom.svg");
+  background-image: linear-gradient(to right bottom, #dc1b80, #cf48ab, #b868cd, #9a83e5, #7b99f1, #5aaafc, #34baff, #00c9ff, #00dafd, #00e9e4, #00f3b8, #31fa7d);
+  /*background-image: url('../images/bg-pattern-top.svg'), url('../images/bg-pattern-bottom.svg');*/
   background-repeat: no-repeat, no-repeat;
-  background-position: right 50vw bottom 50vh, left 50vw top 50vh;
+  /*background-position: right 50vw bottom 50vh, left 50vw top 50vh;*/
 }
 
 .flex {
